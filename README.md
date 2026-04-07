@@ -93,7 +93,7 @@ These integrations enable organizations to create a unified monitoring ecosystem
 
 ## Observability for Enterprise Environments
 
-Modern enterprises require more than just monitoring—they need full observability. As a Datadog observability partner for enterprises, we provide solutions that offer end-to-end visibility across IT environments.
+Modern enterprises require more than just monitoring they need full observability. As a Datadog observability partner for enterprises, we provide solutions that offer end-to-end visibility across IT environments.
 
 Observability includes:
 
